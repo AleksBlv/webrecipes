@@ -1,0 +1,42 @@
+.linkDescription {
+    color: rgb(37, 73, 109);
+    font-size: 20px;
+    text-align: center;
+}
+
+html {
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    background-color: rgb(195, 139, 75);
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+h2, p, li {
+    line-height: 1;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+}
+
+ul {
+    align-content: center;
+    margin: 0 auto;
+    width: 200px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid white;
+}
